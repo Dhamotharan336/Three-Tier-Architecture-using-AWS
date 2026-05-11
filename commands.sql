@@ -1,5 +1,4 @@
 show DATABASES;
-
 use ytdatabase;
 
 CREATE TABLE users (
