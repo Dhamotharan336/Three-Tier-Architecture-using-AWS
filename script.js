@@ -26,4 +26,5 @@ document.getElementById("loginButton").addEventListener("click", function () {
         console.error("Error fetching data:", error);
         document.getElementById("response").innerText = "Failed to load data!";
     });
+
 });
